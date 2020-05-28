@@ -1,0 +1,138 @@
+[{
+        "Secuencia": 10,
+        "NomColumna": "NommaeArea",
+        "Caption": "Descripcion",
+        "EsRequerido": true,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    }, {
+        "Secuencia": 5,
+        "NomColumna": "IdmaeArea",
+        "Caption": "IdmaeArea",
+        "EsRequerido": false,
+        "EsEditable": false,
+        "MultiRow": 0,
+        "Ancho": 0
+    },
+    {
+        "Secuencia": 15,
+        "NomColumna": "nvAliasArea",
+        "Caption": "Alias",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 20,
+        "NomColumna": "nvNumAnexo",
+        "Caption": "Anexo",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 20,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 25,
+        "NomColumna": "nvTelefono1",
+        "Caption": "Telefono Nº1",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 20,
+        "Ancho": 100
+    }, {
+        "Secuencia": 30,
+        "NomColumna": "nvTelefono2",
+        "Caption": "Telefono Nº2",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 20,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 35,
+        "NomColumna": "nvFax",
+        "Caption": "Fax",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 35,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 40,
+        "NomColumna": "nvEmail",
+        "Caption": "Email",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 35,
+        "Ancho": 100
+    }, {
+        "Secuencia": 100,
+        "NomColumna": "-",
+        "Caption": "Direccion",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    }, {
+        "Secuencia": 105,
+        "NomColumna": "IdmaeDepartamento_Direccion",
+        "Caption": "Departamento",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 105,
+        "Ancho": 100
+    }, {
+        "Secuencia": 110,
+        "NomColumna": "IdmaeProvincia_Direccion",
+        "Caption": "Provincia",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 105,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 115,
+        "NomColumna": "IdmaeUbigeo_Direccion",
+        "Caption": "Distrito",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 105,
+        "Ancho": 100
+    }, {
+        "Secuencia": 102,
+        "NomColumna": "nvDireccionParte1",
+        "Caption": "Direccion sin Ubigeo",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 200,
+        "NomColumna": "-",
+        "Caption": "Almacen",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    }, {
+        "Secuencia": 205,
+        "NomColumna": "bAlmacen",
+        "Caption": "Es Almacen",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 205,
+        "Ancho": 100
+    },
+    {
+        "Secuencia": 1,
+        "NomColumna": "-",
+        "Caption": "",
+        "EsRequerido": false,
+        "EsEditable": true,
+        "MultiRow": 0,
+        "Ancho": 100
+    }, { "Secuencia": 900, "NomColumna": "-", "Caption": "Enlace Libro Electronico", "EsRequerido": false, "EsEditable": true, "MultiRow": 0, "Ancho": 100 }, { "Secuencia": 905, "NomColumna": "IdmaeEmpresaEstablecimiento", "Caption": "Establecimiento", "EsRequerido": false, "EsEditable": true, "MultiRow": 905, "Ancho": 100 }, { "Secuencia": 910, "NomColumna": "nvDireccion_EmpresaEstablecimiento", "Caption": "Direccion", "EsRequerido": false, "EsEditable": false, "MultiRow": 905, "Ancho": 100 }, { "Secuencia": 220, "NomColumna": "bSinValorizar", "Caption": "Sin Valorizar", "EsRequerido": false, "EsEditable": true, "MultiRow": 205, "Ancho": 100 }, { "Secuencia": 210, "NomColumna": "IdmaeAreaItemForm", "Caption": "Tipo de Existencia", "EsRequerido": false, "EsEditable": true, "MultiRow": 205, "Ancho": 100 }, { "Secuencia": 1000, "NomColumna": "IdTemp", "Caption": "IdTemp", "EsRequerido": false, "EsEditable": false, "MultiRow": 0, "Ancho": 0 }, { "Secuencia": 300, "NomColumna": "-", "Caption": "Produccion", "EsRequerido": false, "EsEditable": true, "MultiRow": 0, "Ancho": 100 }, { "Secuencia": 310, "NomColumna": "bEnDeclaracionProduccion", "Caption": "En Declaracion de Produccion", "EsRequerido": false, "EsEditable": true, "MultiRow": 305, "Ancho": 100 }, { "Secuencia": 315, "NomColumna": "bEnRequerimientoAdicional", "Caption": "En Requerimiento de Materiales Adicionales", "EsRequerido": false, "EsEditable": true, "MultiRow": 305, "Ancho": 100 }, { "Secuencia": 225, "NomColumna": "bPuntoVenta", "Caption": "Es Punto Venta", "EsRequerido": false, "EsEditable": true, "MultiRow": 205, "Ancho": 100 }, { "Secuencia": 1005, "NomColumna": "iNroItemSerie", "Caption": "iNroItemSerie", "EsRequerido": false, "EsEditable": false, "MultiRow": 0, "Ancho": 0 }, { "Secuencia": 117, "NomColumna": "nvDireccionParte2", "Caption": "nvDireccionParte2", "EsRequerido": false, "EsEditable": false, "MultiRow": 0, "Ancho": 0 }, { "Secuencia": 120, "NomColumna": "nvDireccion", "Caption": "nvDireccion", "EsRequerido": false, "EsEditable": false, "MultiRow": 0, "Ancho": 0 }, { "Secuencia": 850, "NomColumna": "-", "Caption": "Enlace Contable", "EsRequerido": false, "EsEditable": true, "MultiRow": 0, "Ancho": 100 }, { "Secuencia": 855, "NomColumna": "IdmaeCentroCosto", "Caption": "Centro Costo", "EsRequerido": false, "EsEditable": true, "MultiRow": 0, "Ancho": 100 }, { "Secuencia": 305, "NomColumna": "bProduccion", "Caption": "Producto En Proceso", "EsRequerido": false, "EsEditable": true, "MultiRow": 305, "Ancho": 100 }, { "Secuencia": 320, "NomColumna": "bProductoTerminadoFinal", "Caption": "Prod. Term. Final", "EsRequerido": false, "EsEditable": true, "MultiRow": 305, "Ancho": 100 }
+]
